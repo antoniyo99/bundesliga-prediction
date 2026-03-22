@@ -1,0 +1,37 @@
+Match_ID,Date,Player_ID,Player_Name,Team,Opponent,Position_Played,Minutes_Played,Att_Goals,Att_Assists,Att_Shots_on_Target,Def_Tackles_Won,Def_Interceptions,Pen_Errors
+2015_16_266440,2015-08-14,3389,Eliaquim Mangala,Valencia,Bayern Munich,DF,90,1,0,1,0,0,0
+2015_16_266440,2015-08-14,4406,Aymen Abdennour,Valencia,Bayern Munich,MF,90,0,0,0,0,1,0
+2015_16_266440,2015-08-14,5741,Enzo Nicolás Pérez,Valencia,Bayern Munich,MF,90,0,0,0,0,3,0
+2015_16_266440,2015-08-14,6583,Carlos Soler Barragán,Valencia,Bayern Munich,MF,90,0,0,2,0,0,0
+2015_16_266440,2015-08-14,6584,Simone Zaza,Valencia,Bayern Munich,FW,90,0,0,0,0,0,0
+2015_16_266440,2015-08-14,6593,Martín Montoya Torralbo,Valencia,Bayern Munich,DF,90,0,0,0,0,2,0
+2015_16_266440,2015-08-14,6595,Daniel Parejo Muñoz,Valencia,Bayern Munich,MF,90,0,1,0,0,1,0
+2015_16_266440,2015-08-14,6596,José Luis Gayà Peña,Valencia,Bayern Munich,DF,90,0,1,0,0,3,0
+2015_16_266440,2015-08-14,6616,Munir El Haddadi Mohamed,Valencia,Bayern Munich,FW,90,1,0,2,0,0,0
+2015_16_266440,2015-08-14,6725,Zakaria Bakkali,Valencia,Bayern Munich,MF,90,0,0,0,0,0,0
+2015_16_266440,2015-08-14,6736,Álvaro Medrán Just,Valencia,Bayern Munich,FW,90,0,0,0,0,0,0
+2015_16_266440,2015-08-14,6891,Ezequiel Marcelo Garay,Valencia,Bayern Munich,DF,90,0,0,0,0,1,0
+2015_16_266440,2015-08-14,6898,Jaume Doménech Sánchez,Valencia,Bayern Munich,FW,90,0,0,0,0,0,0
+2015_16_266440,2015-08-14,7005,João Pedro Cavaco Cancelo,Valencia,Bayern Munich,MF,90,0,0,0,0,0,0
+2015_16_266440,2015-08-14,7105,Fabián Ariel Orellana Valenzuela,Valencia,Bayern Munich,MF,90,0,0,0,0,0,0
+2015_16_266440,2015-08-14,24504,Eugeni Valderrama Domènech,Valencia,Bayern Munich,FW,90,0,0,0,0,0,0
+2015_16_266440,2015-08-14,25144,Diego Alves Carreira,Valencia,Bayern Munich,GK,90,0,0,0,0,0,0
+2015_16_266440,2015-08-14,26780,Guilherme Magdalena Siqueira,Valencia,Bayern Munich,FW,90,0,0,0,0,0,0
+2015_16_266440,2015-08-14,4320,Neymar da Silva Santos Junior,Barcelona,Bayern Munich,MF,90,0,2,3,0,2,0
+2015_16_266440,2015-08-14,5203,Sergio Busquets i Burgos,Barcelona,Bayern Munich,MF,90,0,0,0,0,1,0
+2015_16_266440,2015-08-14,5211,Jordi Alba Ramos,Barcelona,Bayern Munich,FW,90,0,0,0,0,0,0
+2015_16_266440,2015-08-14,5213,Gerard Piqué Bernabéu,Barcelona,Bayern Munich,DF,90,0,0,0,0,2,1
+2015_16_266440,2015-08-14,5216,Andrés Iniesta Luján,Barcelona,Bayern Munich,DF,90,0,0,1,0,0,0
+2015_16_266440,2015-08-14,5246,Luis Alberto Suárez Díaz,Barcelona,Bayern Munich,FW,90,1,0,2,0,0,0
+2015_16_266440,2015-08-14,5470,Ivan Rakitić,Barcelona,Bayern Munich,MF,90,0,0,0,0,0,0
+2015_16_266440,2015-08-14,5492,Samuel Yves Umtiti,Barcelona,Bayern Munich,DF,90,0,0,0,0,1,0
+2015_16_266440,2015-08-14,5503,Lionel Andrés Messi Cuccittini,Barcelona,Bayern Munich,MF,90,2,0,3,0,0,0
+2015_16_266440,2015-08-14,5506,Javier Alejandro Mascherano,Barcelona,Bayern Munich,DF,90,0,1,0,0,0,0
+2015_16_266440,2015-08-14,6379,Sergi Roberto Carnicer,Barcelona,Bayern Munich,MF,90,0,0,1,0,1,0
+2015_16_266440,2015-08-14,6402,Francisco Alcácer García,Barcelona,Bayern Munich,FW,90,0,0,0,0,0,0
+2015_16_266440,2015-08-14,6609,Denis Suárez Fernández,Barcelona,Bayern Munich,FW,90,0,0,0,0,0,0
+2015_16_266440,2015-08-14,6849,Lucas Digne,Barcelona,Bayern Munich,FW,90,0,0,0,0,0,0
+2015_16_266440,2015-08-14,6998,Rafael Alcântara do Nascimento,Barcelona,Bayern Munich,DF,90,0,0,1,0,0,0
+2015_16_266440,2015-08-14,8652,Jasper Cillessen,Barcelona,Bayern Munich,FW,90,0,0,0,0,0,0
+2015_16_266440,2015-08-14,10802,André Filipe Tavares Gomes,Barcelona,Bayern Munich,DF,90,1,0,1,0,0,0
+2015_16_266440,2015-08-14,20055,Marc-André ter Stegen,Barcelona,Bayern Munich,GK,90,0,0,0,0,0,0
